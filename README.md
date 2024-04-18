@@ -43,4 +43,11 @@ This Python code provides a real-time sign language detection system using the M
 
 https://github.com/HuligeshBondade/Sign-Language-Based-Messenger/assets/107861136/f8f3e277-f28e-4487-8de5-4c8129e9907f
 
+Snapshot from telegram
+
+![WhatsApp Image 2024-04-18 at 5 17 37 PM (1)](https://github.com/HuligeshBondade/Sign-Language-Based-Messenger/assets/107861136/d604f3ae-6ef7-4eee-970f-e22cc04a8e83)
+
+
+
+
 
