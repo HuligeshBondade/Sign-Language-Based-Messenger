@@ -37,3 +37,10 @@ This Python code provides a real-time sign language detection system using the M
 5. Optionally, press the 'Send Message' button to send the recognized gesture as a message via Telegram.
 
 **Note:** Ensure that all dependencies are installed and the `model.p` file containing the pre-trained model is available in the same directory as the script. Additionally, users may need to configure the Telegram API integration for message sending functionality.
+
+
+**Results:**
+
+https://github.com/HuligeshBondade/Sign-Language-Based-Messenger/assets/107861136/f8f3e277-f28e-4487-8de5-4c8129e9907f
+
+
