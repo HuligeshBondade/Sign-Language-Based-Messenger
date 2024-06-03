@@ -1,6 +1,5 @@
 # Sign-Language-Based-Messenger
 
-Sure, here's a brief description of the code for sign language detection:
 
 **Sign Language Detection using MediaPipe and OpenCV**
 
